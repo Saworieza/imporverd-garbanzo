@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  parent_co: MyString
+  number: 1
+  location: MyText
+  value_to_studs: MyText
+  people: MyString
+
+two:
+  name: MyString
+  parent_co: MyString
+  number: 1
+  location: MyText
+  value_to_studs: MyText
+  people: MyString
